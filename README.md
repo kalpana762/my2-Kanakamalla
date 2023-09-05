@@ -29,3 +29,21 @@ In this section I am creating a table with 4 kinds of sports which I would like 
 >
 > The best way to predict the future is to create it - "Peter Drucker"
 ****** 
+
+# Fencing the code
+> Simple Auto-Playing Slideshow - jQuery <br>
+[Question shown in stackover flow](https://stackoverflow.com/questions/65380644/how-to-make-an-image-fit-into-a-simple-auto-playing-slideshow)
+```
+<div id="slideshow">
+            <div>
+              <img src="Img1.jpg">
+            </div>
+            <div>
+              <img src="Img2.jpg">
+            </div>
+            <div>
+               <img src="Img3.jpg">
+            </div>
+         </div>
+```
+[code snippet](https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)     
