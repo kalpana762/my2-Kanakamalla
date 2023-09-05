@@ -12,4 +12,6 @@ I visited araku with my friends which was a great trip with great **nature**.Enj
 * Maggie
 * Biryani
 * Fresh fruit juice
-* Fish fry
+* Fish fry <br><br>
+[Myprofile](MyStats.md)
+******
