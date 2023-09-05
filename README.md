@@ -24,3 +24,8 @@ In this section I am creating a table with 4 kinds of sports which I would like 
 | Swimming | it helps good breathing holding capacity | 4 hrs |
 | Chess | it helps in concentration | 6 hrs |
 ******
+# Quotes of my Favourite Scientists
+> The more I learn,the more I realize how much I don't know - "Isaac Newton"
+>
+> The best way to predict the future is to create it - "Peter Drucker"
+****** 
