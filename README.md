@@ -26,7 +26,7 @@ In this section I am creating a table with 4 kinds of sports which I would like 
 ******
 # Quotes of my Favourite Scientists
 > The more I learn,the more I realize how much I don't know - "Isaac Newton"
->
+
 > The best way to predict the future is to create it - "Peter Drucker"
 ****** 
 
